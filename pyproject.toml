@@ -1,0 +1,26 @@
+[project]
+name = "basic-sft-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=5.0.1",
+    "huggingface-hub>=1.27.0",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "numpy>=2.2.6",
+    "torch>=2.13.0",
+    "transformers>=5.15.0",
+    "trl>=1.9.2",
+]
+
+
+[[tool.uv.index]]
+name = "pytorch-cu132"
+url = "https://download.pytorch.org/whl/cu132"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu132" }
+torchvision = { index = "pytorch-cu132" }

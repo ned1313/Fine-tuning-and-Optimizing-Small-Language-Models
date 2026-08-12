@@ -1,0 +1,5 @@
+# Sync uv
+uv sync
+
+# Create ipykernel for notebook
+uv run --python .venv\Scripts\python.exe python -m ipykernel install --user --name fto-slm --display-name "Python (fto-slm)"
