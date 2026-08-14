@@ -6,10 +6,12 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "datasets>=5.0.1",
+    "dotenv>=0.9.9",
     "huggingface-hub>=1.27.0",
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
     "numpy>=2.2.6",
+    "openai>=3.0.0",
     "torch>=2.13.0",
     "transformers>=5.15.0",
     "trl>=1.9.2",
