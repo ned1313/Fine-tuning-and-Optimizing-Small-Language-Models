@@ -219,4 +219,5 @@ __marimo__/
 
 # Saved models
 sft-gsm8k/
+artifacts/
 
