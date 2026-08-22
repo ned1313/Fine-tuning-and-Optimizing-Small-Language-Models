@@ -6,6 +6,8 @@
         "8..20": true,
         "21..24": true,
         "25..31": true,
-        "Export-Csv": true
+        "Export-Csv": true,
+        "Get-Command": true,
+        "uvx": true
     }
 }
