@@ -1,0 +1,749 @@
+<|im_start|>user
+I have a severe peanut allergy. Can you confirm whether the kitchen uses peanuts in the spicy chicken marinade or fries them in shared oil?<|im_end|>
+<|im_start|>assistant
+Because you have a severe allergy, please do not place the order until the restaurant confirms the ingredients and cross-contact risks directly. Our kitchen may handle common allergens, so we recommend speaking with the manager at your chosen location for the most accurate guidance and requesting [Allergen Information].<|im_end|>
+
+<|im_start|>user
+The delivery tracker says my order was dropped off, but nothing is outside my door. What should I do?<|im_end|>
+<|im_start|>assistant
+I’m sorry your order hasn’t reached you despite the delivery status. Please check nearby entrances and contact the delivery provider through the order link, then share your order number with us so we can investigate with the restaurant and courier.<|im_end|>
+
+<|im_start|>user
+Will the Harbor Point location be open on the upcoming public holiday, and will its kitchen close earlier than the dining room?<|im_end|>
+<|im_start|>assistant
+Holiday hours may differ from the regular schedule, and the kitchen may close before the dining room. Please check the Harbor Point location page or call the restaurant directly before visiting for the most accurate hours.<|im_end|>
+
+<|im_start|>user
+I wanted to recognize Maya at the Riverside counter. She noticed I was in a hurry, explained the quickest options, and still made me feel welcome.<|im_end|>
+<|im_start|>assistant
+Thank you for taking the time to recognize Maya! We’re delighted that she provided quick, thoughtful service while making you feel welcome, and we’ll be sure to share your kind feedback with her and the Riverside team.<|im_end|>
+
+<|im_start|>user
+I ordered Crispy Beef Tacos from your Main Street branch 15 minutes ago, but when I opened the bag, the steak was super chewy and portion was half empty! I want a refund immediately.<|im_end|>
+<|im_start|>assistant
+I’m so sorry—the chewy steak and short portion are absolutely not the quality or value we aim to serve. We’ll arrange an immediate refund and alert the Main Street manager to investigate what happened; please share your order number or receipt details so we can process it right away.<|im_end|>
+
+<|im_start|>user
+I’m planning a team lunch for about 25 people next month. Do you offer catering trays, and how far in advance should I place the order?<|im_end|>
+<|im_start|>assistant
+We’d be glad to help with your team lunch. Catering options and lead times vary by location, so please contact the restaurant or catering team with your date, guest count, and menu preferences; placing the order several days in advance is recommended for a group of that size.<|im_end|>
+
+<|im_start|>user
+I waited more than 30 minutes for a mobile pickup order that was already marked ready. Several employees walked past without giving me an update.<|im_end|>
+<|im_start|>assistant
+I’m sorry you waited so long for an order marked as ready and were not given an update. That delay and lack of communication are not acceptable, and we’ll share your feedback with the store leadership; please provide the location and order details so we can investigate further.<|im_end|>
+
+<|im_start|>user
+My delivery order was missing the chicken burrito and the driver has already left. I was charged for the full order—please help resolve this quickly.<|im_end|>
+<|im_start|>assistant
+I’m sorry your chicken burrito was missing from the delivery, especially since you were charged for it. We can refund the missing item to your original payment method; please share your order number so we can process this right away.<|im_end|>
+
+<|im_start|>user
+I ordered Grilled Chicken Bowl and a Fish Tacos, but instead I got two completely wrong items. Please check the receipt before handing bags out at the drive-thru!<|im_end|>
+<|im_start|>assistant
+I’m so sorry—you ordered a Grilled Chicken Bowl and Fish Tacos but received two incorrect items, which is especially frustrating at the drive-thru. We’ll review this with the team and reinforce checking receipts before handing out orders; please contact [Manager Contact] so we can arrange a remake or refund right away.<|im_end|>
+
+<|im_start|>user
+My delivery was more than an hour late, and the food arrived cold. I placed the order for a meeting and everyone had already left by the time it showed up.<|im_end|>
+<|im_start|>assistant
+I’m very sorry your order arrived over an hour late and cold, especially when it was intended for an important meeting. We’ll review the delivery delay with the restaurant and driver, and we’d like to arrange a refund or replacement; please share your order number so we can help promptly.<|im_end|>
+
+<|im_start|>user
+Can I use a Taco Alley gift card to pay for an order through the mobile app, or are gift cards only accepted in the restaurants?<|im_end|>
+<|im_start|>assistant
+You can check the available payment options in the Taco Alley app at checkout, where eligible gift cards can be added under the payment section. If your card is not accepted there, it can still be used at participating restaurants; please contact [Gift Card Support] with the card details if you need help checking its balance or eligibility.<|im_end|>
+
+<|im_start|>user
+I just placed my order and realized I selected regular rice instead of brown rice. Is it still possible to change the side before it is prepared?<|im_end|>
+<|im_start|>assistant
+We’ll do our best to update the side before your order is prepared. Please send your order number in this chat right away, since changes may not be possible once the kitchen has started making it.<|im_end|>
+
+<|im_start|>user
+My catering order was promised for noon, but it is now 12:45 and nothing has arrived. Our office meeting has already started, and I need an update immediately.<|im_end|>
+<|im_start|>assistant
+I’m very sorry that your catering order is 45 minutes late, especially during an active office meeting. Please provide the order number and delivery address so we can contact the store and driver immediately, confirm the status, and discuss an appropriate resolution.<|im_end|>
+
+<|im_start|>user
+I was charged twice for the same pickup order in the app. One charge is still pending, but I want to make sure the duplicate payment is reversed.<|im_end|>
+<|im_start|>assistant
+I’m sorry for the confusion caused by the duplicate-looking charges. Please provide the order number and the last four digits of the card used; the pending authorization may drop off automatically, and we’ll investigate promptly if both charges settle.<|im_end|>
+
+<|im_start|>user
+Will the Harbor Point location be open on Memorial Day, and does it offer breakfast during the holiday hours?<|im_end|>
+<|im_start|>assistant
+Holiday hours and breakfast availability may differ from the regular schedule. Please check the Harbor Point listing at [Locations Link] closer to Memorial Day or call the store directly to confirm its hours and menu.<|im_end|>
+
+<|im_start|>user
+Will the Oak Avenue restaurant be open on New Year’s Day, and does it offer breakfast that morning?<|im_end|>
+<|im_start|>assistant
+Holiday hours and breakfast availability can vary by location. Please check the Oak Avenue restaurant listing in our app or call the location directly before visiting on New Year’s Day for the most accurate schedule.<|im_end|>
+
+<|im_start|>user
+I ordered two black bean tacos with no sour cream, but both arrived with sour cream and one was chicken instead of black bean. I cannot eat this order as delivered.<|im_end|>
+<|im_start|>assistant
+I’m sorry we missed both your protein choice and your no-sour-cream request, especially since the order is not suitable for you to eat. Please report the issue through the delivery app with your order number and a photo if available, and we’ll work with the platform on a refund or replacement and review the error with the restaurant.<|im_end|>
+
+<|im_start|>user
+I asked for no onions because of an allergy, but my chicken taco had onions mixed into the filling. I noticed before eating it, but this was a serious mistake.<|im_end|>
+<|im_start|>assistant
+I’m very sorry that your allergy request was not followed; we take ingredient and customization requests seriously, even though you caught the issue before eating the taco. Please provide the store, order details, and any symptoms if applicable so we can alert the manager, document the incident, and discuss an appropriate resolution with you.<|im_end|>
+
+<|im_start|>user
+My Barbacoa Burrito was totally inedible today at the Northlake store. The meat was stone cold and the sauce tasted overly salty. Very disappointing experience.<|im_end|>
+<|im_start|>assistant
+I’m so sorry your Barbacoa Burrito was cold and overly salty—that’s absolutely not the quality we expect from the Northlake team. We’ll escalate this to the store manager for immediate review, and we’d like to make it right with a refund or replacement; please share your order details through [Refund Link] so we can resolve it promptly.<|im_end|>
+
+<|im_start|>user
+The drive-thru cashier at the Eastside location was incredibly rude. When I asked for extra verde salsa, he slammed the drive-thru window and handed me my food in silence.<|im_end|>
+<|im_start|>assistant
+I’m really sorry you were treated that way at our Eastside location—being met with rudeness and having the window slammed is not the respectful service we expect. I’m escalating this to the store manager for immediate review and follow-up with the team; please share your order details or visit time at [Manager Contact] so we can address it properly.<|im_end|>
+
+<|im_start|>user
+I see two pending charges for the same lunch order on my credit card, although I only placed one order. Can you check whether I was billed twice?<|im_end|>
+<|im_start|>assistant
+I understand why seeing two pending charges would be concerning. Please send the order number, transaction date, restaurant location, and the last four digits of the card, without sharing the full card number; we’ll review the payment records and explain whether one charge is only a temporary authorization.<|im_end|>
+
+<|im_start|>user
+The chicken in my takeout sandwich was pink in the center. I stopped eating after the first bite and want this reported immediately.<|im_end|>
+<|im_start|>assistant
+I’m very sorry you received a chicken sandwich that appeared undercooked, and you were right to stop eating it. Please preserve the item and packaging if possible, contact [Manager Contact] with your order details and any symptoms, and we’ll escalate this immediately to the store manager and food-safety team.<|im_end|>
+
+<|im_start|>user
+Have you guys ever considered adding a Garlic Lime Cream salsa to the salsa bar? I think it would pair amazingly with the fish tacos!<|im_end|>
+<|im_start|>assistant
+That sounds like a delicious idea—Garlic Lime Cream salsa would be an excellent match for our fish tacos! Thanks for the creative suggestion; we’ll share it with our culinary team and store management for consideration.<|im_end|>
+
+<|im_start|>user
+The chicken tacos from the Downtown location were cold and the meat had a sour smell when I opened the container. I’m concerned they were not safe to eat.<|im_end|>
+<|im_start|>assistant
+I’m very sorry—the tacos should never have arrived cold or raised concerns about freshness. Please do not eat them; contact us through [Support Link] with your order details so we can arrange a prompt refund and report this to the Downtown manager for immediate review.<|im_end|>
+
+<|im_start|>user
+I earned enough points for a free entrée, but the reward disappeared from my account before I could use it. How long are rewards supposed to remain available?<|im_end|>
+<|im_start|>assistant
+I’m sorry your free-entrée reward is no longer showing in your account. Reward expiration can depend on the offer terms, so please share the email or phone number linked to your loyalty account and we’ll review the reward history and clarify whether it can be restored.<|im_end|>
+
+<|im_start|>user
+The restroom at your University District restaurant was dirty, out of soap, and hand towels were nowhere to be found. Please inform the shift manager.<|im_end|>
+<|im_start|>assistant
+I’m sorry the restroom at our University District location was in that condition—being out of soap and hand towels is not acceptable. I’ll share this with the shift manager so the restroom can be cleaned and restocked promptly, and we’ll reinforce our cleanliness checks with the team.<|im_end|>
+
+<|im_start|>user
+Can you tell me whether the roasted vegetables contain any added gluten ingredients? I’m trying to choose a safe side for dinner.<|im_end|>
+<|im_start|>assistant
+We’re happy to help you review the ingredients for the roasted vegetables. Please check our current allergen and nutrition guide at [Nutrition Link], and let us know if you need help locating a specific item; for a severe allergy, we also recommend discussing cross-contact concerns with the restaurant team before ordering.<|im_end|>
+
+<|im_start|>user
+Just picked up lunch from Downtown. The Crispy Beef Tacos had barely any meat, and the tortillas were soggy. I expect much better quality for $15.<|im_end|>
+<|im_start|>assistant
+I’m sorry your Crispy Beef Tacos were skimpy and soggy—that’s not the quality or value we aim to serve. We’d like to make this right with a refund or replacement; please contact [Manager Contact] with your order details so the Downtown team can address it promptly and review what happened.<|im_end|>
+
+<|im_start|>user
+My card was charged twice for one catering order. Both transactions are showing as completed, not pending. Please investigate and reverse the extra charge.<|im_end|>
+<|im_start|>assistant
+I’m sorry for the duplicate charge and understand why you want this corrected quickly. Please send us the order number and the dates and amounts of both transactions through [Secure Payment Form] so we can verify the duplicate and initiate a refund for the extra payment.<|im_end|>
+
+<|im_start|>user
+I ordered the vegetarian bowl with no sour cream, but it came with sour cream and the black beans were missing. Can this be remade?<|im_end|>
+<|im_start|>assistant
+I’m sorry we missed both the no-sour-cream request and the black beans. We’ll remake the bowl correctly right away; please show the order details to a team member or let us know the location so the manager can assist you promptly.<|im_end|>
+
+<|im_start|>user
+I ordered Grilled Chicken Bowl and a Spicy Shrimp Tacos, but instead I got two completely wrong items. Please check the receipt before handing bags out at the drive-thru!<|im_end|>
+<|im_start|>assistant
+I’m sorry you received two completely wrong items—especially after ordering a Grilled Chicken Bowl and Spicy Shrimp Tacos. We’ll review this with the drive-thru team and reinforce checking receipts before handing out orders; please contact [Manager Contact] so we can arrange a replacement or refund right away.<|im_end|>
+
+<|im_start|>user
+It would be helpful if the app saved my usual sauce and topping choices so I didn’t have to customize the same meal every time.<|im_end|>
+<|im_start|>assistant
+That’s a great suggestion for making repeat orders faster and more convenient. I’ll share your idea about saving sauce and topping preferences with our app team for consideration in a future update.<|im_end|>
+
+<|im_start|>user
+My delivery has been marked as preparing for nearly 45 minutes. Can you tell me when it is expected to arrive?<|im_end|>
+<|im_start|>assistant
+I’m sorry for the delay with your order. Delivery estimates can change while the restaurant is preparing the food, so please check the latest status in the app or contact the store directly for the most accurate update.<|im_end|>
+
+<|im_start|>user
+I waited over 30 minutes for a simple Carnitas Tacos order at University District. When I asked about the delay, the staff was dismissive and gave me an attitude.<|im_end|>
+<|im_start|>assistant
+I’m really sorry you waited over 30 minutes for your Carnitas Tacos and were met with a dismissive attitude when you asked for an update—that’s not the prompt, respectful service we expect at Taco Alley. I’m escalating this to the University District manager so we can address both the delay and how you were treated; please share your order details and contact information so we can make this right.<|im_end|>
+
+<|im_start|>user
+The app advertised a free dessert with my purchase, but the reward disappeared when I tried to check out. Can you restore it?<|im_end|>
+<|im_start|>assistant
+Sorry for the trouble with the free dessert reward disappearing at checkout. Please send us a screenshot of the offer, your account email, and the order details through [App Support Link] so we can verify the promotion and restore the reward or provide an appropriate resolution.<|im_end|>
+
+<|im_start|>user
+How long will my mobile order stay available for pickup if I get stuck at work?<|im_end|>
+<|im_start|>assistant
+Your order is prepared for the pickup time selected in the app, so it’s best to collect it as soon as possible for the best quality. If you’ll be significantly delayed, contact the restaurant directly to ask whether they can hold it or help adjust the order.<|im_end|>
+
+<|im_start|>user
+Could you tell me how many calories and grams of sodium are in the Barbacoa Burrito? I couldn't find the detailed nutritional PDF on your app.<|im_end|>
+<|im_start|>assistant
+Thanks for reaching out—we’re happy to help with the Barbacoa Burrito nutrition details. I don’t have the current calorie and sodium figures available here, but our team can provide the latest information through [Nutrition Information Link] or [Manager Contact]; please also let us know about any allergies so we can review ingredient and cross-contact details.<|im_end|>
+
+<|im_start|>user
+The avocado in my bowl was brown and had a sour taste, so I had to throw the meal away. I’m disappointed because this is usually my favorite item.<|im_end|>
+<|im_start|>assistant
+I’m sorry the avocado was not fresh and that you had to discard your meal. We’d like to report this to the restaurant team and arrange a replacement or refund; please send your order details through [Support Link] so we can make this right.<|im_end|>
+
+<|im_start|>user
+My loyalty rewards points for my purchase at University District yesterday haven't loaded onto my app account yet. How long does it usually take?<|im_end|>
+<|im_start|>assistant
+Points usually appear in the Taco Alley app within 24 hours of your purchase, though occasional delays can take up to 48 hours. If they’re still missing after that, please share your receipt and account email with [Manager Contact] so we can look into it and make sure you receive credit.<|im_end|>
+
+<|im_start|>user
+I ordered Crispy Beef Tacos and a Spicy Shrimp Tacos, but instead I got two completely wrong items. Please check the receipt before handing bags out at the drive-thru!<|im_end|>
+<|im_start|>assistant
+I’m so sorry—we gave you two completely wrong items, and I understand how frustrating that is, especially at the drive-thru. We’ll review this with the team and reinforce checking receipts before handing out orders; please contact [Manager Contact] so we can arrange a replacement or refund for your Crispy Beef and Spicy Shrimp Tacos.<|im_end|>
+
+<|im_start|>user
+I waited more than 30 minutes for two tacos during a nearly empty lunch period at the River Market store. No one explained the delay, and my food was cold when it arrived.<|im_end|>
+<|im_start|>assistant
+I’m sorry you waited so long for a small order and that the food was cold when it reached you. We’ll share this feedback with the River Market manager so the team can review its ticket times and communication, and we’d like to make this right with a refund or replacement.<|im_end|>
+
+<|im_start|>user
+My family order was missing two sides of guacamole and one chicken bowl. The receipt shows all of them, so we paid for food that never arrived.<|im_end|>
+<|im_start|>assistant
+I’m sorry that your chicken bowl and two sides of guacamole were missing even though they were included on the receipt. We’ll report the packing issue to the restaurant and can arrange a refund for the missing items; please provide the order number through [Resolution Link].<|im_end|>
+
+<|im_start|>user
+Could you offer a vegetarian protein made from beans and roasted vegetables instead of only the current meat options? I would love more filling choices.<|im_end|>
+<|im_start|>assistant
+Thanks for sharing this thoughtful menu suggestion. A hearty vegetarian option featuring beans and roasted vegetables could give guests more filling choices, and we’ll pass your feedback along to our culinary and menu planning teams.<|im_end|>
+
+<|im_start|>user
+Can you confirm whether the chipotle chicken marinade contains dairy? I have a milk allergy and want to be certain before ordering.<|im_end|>
+<|im_start|>assistant
+Thanks for checking with us before ordering. We’ll verify the current ingredient and cross-contact information with the restaurant, but because recipes and preparation areas can vary, please wait for our confirmation and tell your server about the allergy when ordering.<|im_end|>
+
+<|im_start|>user
+I’m planning a lunch for about 35 people next month. Can someone send me catering options and pricing for vegetarian tacos and chips with salsa?<|im_end|>
+<|im_start|>assistant
+We’d be happy to help with catering for your lunch of about 35 guests, including vegetarian tacos and chips with salsa. Please share the event date, delivery or pickup location, and any dietary requirements so our catering team can send the most accurate menu and pricing.<|im_end|>
+
+<|im_start|>user
+Just picked up lunch from Westside. The Veggie Burrito Bowl had barely any meat, and the tortillas were soggy. I expect much better quality for $15.<|im_end|>
+<|im_start|>assistant
+I’m sorry your Westside order was so disappointing—soggy tortillas and an underfilled bowl are definitely not the quality we aim for, especially at $15. Please send us your order details and receipt through [Refund Link] so we can make this right with a refund or replacement, and we’ll share your feedback with the Westside manager.<|im_end|>
+
+<|im_start|>user
+My delivery was left outside the wrong apartment building, and the driver marked it delivered with a photo of a doorway I don’t recognize. The food was gone by the time I found it.<|im_end|>
+<|im_start|>assistant
+I’m sorry your order was delivered to the wrong building and that you were unable to recover your food. We’ll document the delivery issue and coordinate with the delivery service, while our support team reviews a refund or replacement through [Delivery Support Link].<|im_end|>
+
+<|im_start|>user
+I redeemed my points for a free taco, but the reward disappeared from the app before I could use it. Can you restore it?<|im_end|>
+<|im_start|>assistant
+I’m sorry the redeemed reward disappeared before you had a chance to use it. Please send us the email or phone number linked to your Taco Alley account and, if available, a screenshot of the redemption so we can review the activity and help restore the reward.<|im_end|>
+
+<|im_start|>user
+My online order was missing the chicken burrito and the two drinks I paid for. The rest of the food arrived cold, and I need help getting this corrected.<|im_end|>
+<|im_start|>assistant
+We’re very sorry that your order was missing items and arrived cold—that’s not the experience we want you to have. Please send us your order number and location so we can review it and arrange an appropriate refund or replacement for the missing food and drinks.<|im_end|>
+
+<|im_start|>user
+Visited the Northlake store around 7:45 PM. Almost all tables were dirty with salsa stains, and the trash cans were overflowing into the walkway.<|im_end|>
+<|im_start|>assistant
+I’m sorry the Northlake dining area was in that condition—dirty tables and overflowing trash are frustrating and not the experience we want for our guests. I’ll share this with the store manager so the team can address the cleaning and trash-collection routines, especially during the evening rush.<|im_end|>
+
+<|im_start|>user
+I was told my canceled order would be refunded last week, but I still don't see the money back on my card. Can someone check the status?<|im_end|>
+<|im_start|>assistant
+I’m sorry the refund has not appeared yet, and I’ll be glad to help check its status. Please provide the canceled order number and the last four digits of the payment card through [Secure Support Link], and we’ll confirm whether it was issued and share the expected posting timeline.<|im_end|>
+
+<|im_start|>user
+Your new TV commercial with the dancing taco mascot theme is super funny, but it would be great if you highlighted your fresh salsa bar more!<|im_end|>
+<|im_start|>assistant
+Thanks for the great feedback—we’re glad the dancing taco mascot brought a smile! Highlighting our fresh salsa bar is a fantastic idea, and we’ll share your suggestion with our marketing and culinary teams for consideration in future campaigns.<|im_end|>
+
+<|im_start|>user
+My delivery arrived without the chips and queso I paid for, and the driver has already left. I need the missing items refunded as soon as possible.<|im_end|>
+<|im_start|>assistant
+I’m sorry your chips and queso were missing from the delivery, especially after you paid for them. Please submit the order number through [Refund Link] so we can issue a refund for those items and report the packing error to the restaurant team.<|im_end|>
+
+<|im_start|>user
+I have a severe peanut allergy. Are the salsa and guacamole prepared in an area completely free of peanuts?<|im_end|>
+<|im_start|>assistant
+We understand how important this is, but our kitchens handle multiple ingredients and we cannot guarantee that the salsa or guacamole is free from peanut cross-contact. Please tell your server or ordering specialist about the allergy so they can review current ingredient information and the safest available options with you.<|im_end|>
+
+<|im_start|>user
+I was charged twice for the same pickup order on my credit card. Can you remove the duplicate charge?<|im_end|>
+<|im_start|>assistant
+I’m sorry for the duplicate charge on your pickup order. Please provide the order number and a screenshot or description of both transactions; we’ll review the payment records and process any necessary reversal, while noting that your bank may take several business days to post it.<|im_end|>
+
+<|im_start|>user
+I have a severe peanut allergy. Can you tell me whether the chipotle crema contains peanuts and how you handle cross-contact in the kitchen before I place an order?<|im_end|>
+<|im_start|>assistant
+Your safety is important to us. We’ll confirm the current ingredient information for the chipotle crema, but because our kitchen handles common allergens and cross-contact may occur, please speak with the manager at your chosen location before ordering; we cannot guarantee an allergen-free meal.<|im_end|>
+
+<|im_start|>user
+It would be super helpful if you added self-service ordering kiosks at the Oakridge Mall store to speed up long lunch lines.<|im_end|>
+<|im_start|>assistant
+Thanks for the thoughtful suggestion—we understand how helpful self-service kiosks could be during busy lunch hours at our Oakridge Mall location. We’ll share your feedback with the store manager and operations team as they evaluate ways to make ordering faster and more convenient.<|im_end|>
+
+<|im_start|>user
+I waited in the pickup area for 20 minutes after the app said my order was ready, but no one acknowledged me or checked on the order.<|im_end|>
+<|im_start|>assistant
+I’m sorry you were left waiting without anyone checking on your pickup order. That is not the attentive service we expect, and if you share the location and order number through [Support Link], we’ll review what happened with the restaurant team.<|im_end|>
+
+<|im_start|>user
+The new mango habanero bowl was fantastic, and the vegetables tasted especially fresh. Please pass my thanks along to the kitchen team at the Riverside store.<|im_end|>
+<|im_start|>assistant
+We’re delighted that you enjoyed the mango habanero bowl and noticed the freshness of the vegetables! We’ll be happy to share your kind words with the Riverside kitchen team, and we hope to serve you another great meal soon.<|im_end|>
+
+<|im_start|>user
+I want to recognize Maya at the Riverside store for being patient with my large family order and making sure every meal was labeled correctly.<|im_end|>
+<|im_start|>assistant
+Thank you for taking the time to recognize Maya and the Riverside team! We’re delighted that her care and attention made your large family order easier, and we’ll be sure to share your kind feedback with her and the store manager.<|im_end|>
+
+<|im_start|>user
+Are the corn tortillas and black beans prepared without dairy? I have a severe milk allergy and want to be careful before ordering.<|im_end|>
+<|im_start|>assistant
+We understand how important accurate allergen information is. Our corn tortillas and black beans are prepared without dairy ingredients, but shared equipment and cross-contact are possible, so please speak with the manager at your location before ordering.<|im_end|>
+
+<|im_start|>user
+I asked for no dairy on my burrito because of an intolerance, but it had sour cream inside. The employee repeated the request back to me at the speaker.<|im_end|>
+<|im_start|>assistant
+I’m sorry the burrito contained sour cream after your no-dairy request was clearly repeated; we should have prepared it correctly. We’ll report this to the drive-thru manager and review the order-verification process, and [Manager Contact] can arrange a replacement or refund.<|im_end|>
+
+<|im_start|>user
+Please consider bringing back the grilled vegetable taco for a limited time. It was one of the few lighter vegetarian choices I could get.<|im_end|>
+<|im_start|>assistant
+Thanks for letting us know how much you enjoyed the grilled vegetable taco. We’ll pass your request to our menu team, along with your feedback about wanting more lighter vegetarian options for a future limited-time offering.<|im_end|>
+
+<|im_start|>user
+My pickup order says it is ready, but I have been waiting outside for twenty minutes and no one has brought it out. What should I do?<|im_end|>
+<|im_start|>assistant
+We’re sorry you’ve been waiting after receiving a ready-for-pickup notification. Please call the location or go to the counter with your order number so the team can locate it immediately, and share the order details with us if the delay is not resolved.<|im_end|>
+
+<|im_start|>user
+Missing items again at Midtown! I paid for a 3-taco combo with black beans and mexican rice, but you completely forgot the black beans.<|im_end|>
+<|im_start|>assistant
+I’m sorry your black beans were missing again from your 3-taco combo at Midtown—that’s frustrating, especially after paying for the full meal. We’ll escalate this to the Midtown manager and arrange a refund or replacement for the missing side; please share your order details or receipt so we can make it right promptly.<|im_end|>
+
+<|im_start|>user
+The lettuce in my salad at the Market Street location was wilted and had several brown edges. I expected fresher ingredients for the price I paid.<|im_end|>
+<|im_start|>assistant
+I’m sorry the lettuce in your Market Street salad was wilted and not up to our freshness standards. We’ll notify the store team so they can inspect the ingredients and preparation practices, and we’d like to make this right with a replacement or refund through [Refund Link].<|im_end|>
+
+<|im_start|>user
+My delivery arrived without the guacamole and the two chicken tacos were made with steak instead. The receipt shows I was charged for everything I ordered.<|im_end|>
+<|im_start|>assistant
+I’m sorry your order was missing guacamole and included the wrong protein, especially since you were charged for all of the items. Please send us your order number and delivery details so we can arrange a refund or replacement and share the error with the restaurant team.<|im_end|>
+
+<|im_start|>user
+Will the Harbor Point location be open on Monday morning for breakfast, and does it have outdoor seating?<|im_end|>
+<|im_start|>assistant
+The Harbor Point location’s current listing shows breakfast service beginning at 7:00 a.m. on Mondays. It also has a patio, although outdoor seating can be limited or unavailable during maintenance or bad weather; please check the location page for the latest hours before visiting.<|im_end|>
+
+<|im_start|>user
+I was charged twice for the same catering order on my card, although I only received one confirmation and one delivery. Can you reverse the duplicate payment?<|im_end|>
+<|im_start|>assistant
+We’re sorry for the duplicate charge and understand why you’d want it corrected. Please send us the order number and the dates or amounts of both transactions; we’ll investigate promptly and process a reversal if the second payment was captured in error.<|im_end|>
+
+<|im_start|>user
+Our family meal was missing the chips and three sides listed on the receipt. We noticed only after getting home, and the restaurant phone keeps going to voicemail.<|im_end|>
+<|im_start|>assistant
+I’m sorry your family meal was missing several items and that you haven’t been able to reach the restaurant. Please send the order number, receipt, and location through this chat so we can notify the manager and work with you on a prompt replacement, refund, or other appropriate resolution.<|im_end|>
+
+<|im_start|>user
+I ordered a chicken burrito with no sour cream through the app, but it arrived covered in sour cream. I have a dairy allergy and had to throw the meal away. Please address this as soon as possible.<|im_end|>
+<|im_start|>assistant
+I’m very sorry that your order included sour cream despite your allergy request; we take ingredient and allergy concerns seriously. We’ll escalate this to the restaurant manager immediately, and we’d like to arrange a full refund or replacement while reviewing what went wrong.<|im_end|>
+
+<|im_start|>user
+Have you guys ever considered adding a Smoked Chipotle Peach salsa to the salsa bar? I think it would pair amazingly with the fish tacos!<|im_end|>
+<|im_start|>assistant
+That sounds delicious—smoked chipotle peach salsa would be an excellent match for our fish tacos! Thanks for the creative suggestion; we’ll share it with our culinary team and store management for consideration.<|im_end|>
+
+<|im_start|>user
+I’m planning a lunch for about  thirty employees next month. Can you provide a catering menu with vegetarian options, delivery pricing, and the minimum notice required?<|im_end|>
+<|im_start|>assistant
+We’d be happy to help plan lunch for your group of about 30. Our catering options and delivery fees can vary by location, so please share the event date, delivery address, and preferred Taco Alley restaurant, and we’ll connect you with the catering team for menu choices, vegetarian options, and lead-time details.<|im_end|>
+
+<|im_start|>user
+The tables at the Lakeside location were sticky, the trash bins were overflowing, and the restroom did not appear to have been cleaned during my visit.<|im_end|>
+<|im_start|>assistant
+I’m sorry the Lakeside restaurant was not maintained properly during your visit. Clean dining and restroom areas are essential, so we’re escalating this to the location manager for immediate attention and follow-up with the team; please share your visit time if available.<|im_end|>
+
+<|im_start|>user
+Will the restaurant be open on New Year’s Day, and can I still order breakfast tacos in the morning?<|im_end|>
+<|im_start|>assistant
+Holiday hours and breakfast availability may vary by Taco Alley location. Please check the location page or call your nearest restaurant before visiting on New Year’s Day to confirm its opening time and breakfast menu.<|im_end|>
+
+<|im_start|>user
+I’m planning a team lunch for about 25 people next month. Do you offer catering trays, vegetarian selections, and delivery to the Midtown office area?<|im_end|>
+<|im_start|>assistant
+We’d be happy to help with your team lunch and can provide information on catering trays, vegetarian selections, and delivery availability for Midtown. Please share your event date, preferred delivery time, and any dietary requirements through [Catering Inquiry Link] so our catering team can prepare a tailored quote.<|im_end|>
+
+<|im_start|>user
+The chicken in my tacos was cold in the middle, and the meal was not safe to eat. I need someone to contact me today.<|im_end|>
+<|im_start|>assistant
+I’m very sorry that your chicken tacos were not fully heated, and we take a food-safety concern like this seriously. Please provide your order details and contact information so our restaurant leadership team can follow up promptly and investigate what happened.<|im_end|>
+
+<|im_start|>user
+I was charged twice for the same online order from the Downtown store. Both charges are showing as completed on my bank account, not just pending. Can you help reverse the duplicate payment?<|im_end|>
+<|im_start|>assistant
+I’m sorry for the duplicate charge on your order. We’ll review the payment records with the Downtown store and help process a refund for the extra transaction; please send us your order number and the relevant transaction details through [Secure Support Channel].<|im_end|>
+
+<|im_start|>user
+Do you still offer the roasted corn salsa, and is it available at the Cedar Grove location this weekend?<|im_end|>
+<|im_start|>assistant
+Thanks for checking with us! Roasted corn salsa is a limited-availability item, so stock can vary by location; please check the Cedar Grove menu in the app or call the store before visiting this weekend.<|im_end|>
+
+<|im_start|>user
+I’m planning a lunch for about 35 people next month. Do you offer catering trays and vegetarian options, and how far in advance should I place the order?<|im_end|>
+<|im_start|>assistant
+We’d be glad to help with your lunch plans; our catering menu includes shareable trays and vegetarian selections. For an order of about 35 guests, we recommend contacting the catering team at least several days in advance so they can confirm availability, menu choices, and delivery details.<|im_end|>
+
+<|im_start|>user
+Jordan at the Riverside location was wonderful and helped me choose a meal for my daughter with a food allergy. Please let the team know how appreciated they are.<|im_end|>
+<|im_start|>assistant
+Thank you for taking the time to recognize Jordan! We’re glad they provided such thoughtful assistance for your daughter, and we’ll make sure the Riverside team and Jordan’s manager hear your kind feedback.<|im_end|>
+
+<|im_start|>user
+I signed up for the rewards program yesterday, but my points from today’s purchase still aren’t showing. How long does it usually take for them to appear?<|im_end|>
+<|im_start|>assistant
+Thanks for reaching out! Rewards points can take up to 24 hours to appear after a purchase; if they’re still missing after that, please send us your receipt and account email through [Support Link] so we can investigate.<|im_end|>
+
+<|im_start|>user
+My delivery was scheduled for 7:15, but it is now 8:05 and the tracking page still says the order is being prepared. This is for a family dinner, and I need an update now.<|im_end|>
+<|im_start|>assistant
+I’m very sorry your family dinner order is running so late and that the tracking status hasn’t provided a useful update. Please share the order number and delivery address so we can contact the restaurant and courier immediately, then review an appropriate refund or credit for the delay.<|im_end|>
+
+<|im_start|>user
+The dining area was messy when we arrived, with full trash bins and food on several tables. We had to clean a table ourselves before sitting down.<|im_end|>
+<|im_start|>assistant
+I’m sorry the dining area was not clean and ready when you arrived; you should not have had to clean a table yourself. We’ll share this with the location manager so the team can address the missed cleaning and improve dining-room checks.<|im_end|>
+
+<|im_start|>user
+Does the queso contain tree nuts, and can you prevent cross-contact when preparing a bowl? I have a serious allergy and need clear information before ordering.<|im_end|>
+<|im_start|>assistant
+Your safety is important to us, and we’re happy to help you make an informed choice. We’ll confirm the queso ingredients and review the cross-contact procedures with the specific location, but because our kitchen handles multiple allergens, we cannot guarantee an allergen-free meal; please contact the restaurant before ordering.<|im_end|>
+
+<|im_start|>user
+I just submitted a pickup order but selected the wrong sauce. Can I change it before the restaurant starts making the order?<|im_end|>
+<|im_start|>assistant
+We’ll be happy to help if the order has not entered preparation yet. Please call the selected restaurant as soon as possible with your order number, since changes may not be possible once the kitchen has started making it.<|im_end|>
+
+<|im_start|>user
+I’m planning a staff luncheon for about 45 people next month. How far in advance should I place a catering order, and do you offer delivery?<|im_end|>
+<|im_start|>assistant
+We’d be glad to help with your staff luncheon. Catering lead times and delivery availability can vary by location and order size, so please contact the catering team or your nearest restaurant with the event date, guest count, and delivery address to review options.<|im_end|>
+
+<|im_start|>user
+Does the queso contain any tree nuts, and can you prevent cross-contact when preparing my order? I have a severe allergy and need to know before I place it.<|im_end|>
+<|im_start|>assistant
+Your safety is important to us, and we understand why you need this information before ordering. Please review our current allergen guide and speak with the restaurant manager before placing your order, since we cannot guarantee an allergen-free environment or eliminate the risk of cross-contact.<|im_end|>
+
+<|im_start|>user
+The condiment and salsa bar at Oakridge Mall was a mess. Tongs were submerged in sauce, and several bowls were completely empty during lunch peak.<|im_end|>
+<|im_start|>assistant
+I’m sorry the condiment and salsa bar at our Oakridge Mall location was in that condition, especially during the lunch rush. Tongs submerged in sauce and empty bowls are not the level of cleanliness or service we expect, so I’m sharing this with the store manager for immediate attention and follow-up with the team.<|im_end|>
+
+<|im_start|>user
+The manager at Oakridge Mall was totally unhelpful when I politely pointed out an issue with my meal. Zero customer service skills.<|im_end|>
+<|im_start|>assistant
+I’m sorry you were met with an unhelpful response at our Oakridge Mall location, especially when you raised your meal concern politely. That’s not the level of care we expect from our team, and I’m escalating this to our management team for immediate follow-up; please share your order details and contact information at [Manager Contact] so we can address it directly.<|im_end|>
+
+<|im_start|>user
+The chicken in my tacos was cold and undercooked when I picked up my order tonight. I’m concerned about food safety and need someone to contact me promptly.<|im_end|>
+<|im_start|>assistant
+We’re very sorry to hear about this serious food-quality concern. Please do not eat the chicken, and contact our team with your order details and store location so we can escalate it immediately to the restaurant manager and arrange a refund.<|im_end|>
+
+<|im_start|>user
+My rewards account stopped showing the points from yesterday’s purchase. The receipt is in the app, but the points balance has not updated.<|im_end|>
+<|im_start|>assistant
+I’m sorry your points have not appeared even though the receipt is visible in the app. Please send [Loyalty Support] your account email and receipt number, and we’ll review the transaction and apply any eligible points to your balance.<|im_end|>
+
+<|im_start|>user
+I ordered two chicken burritos through the app, but one was made with beef and the extra guacamole I paid for was missing. The receipt in the app is correct, so the mistake happened at the store.<|im_end|>
+<|im_start|>assistant
+I’m sorry your order was prepared incorrectly and that the extra guacamole was left out, especially when the app receipt clearly listed both items. We’ll share this with the store team and would be happy to arrange a refund or replacement for the affected items; please contact us at [Manager Contact] with your order number.<|im_end|>
+
+<|im_start|>user
+It would be helpful if the app included an option to increase text size and improve screen-reader labels for the customization buttons.<|im_end|>
+<|im_start|>assistant
+Thank you for sharing this thoughtful accessibility feedback. Adjustable text size and clearer screen-reader labels would make the app easier to use, and we’ll forward your suggestions to our digital product team for consideration.<|im_end|>
+
+<|im_start|>user
+Are your corn tortillas 100% gluten-free, or are they pressed on the same grill as the flour tortillas?<|im_end|>
+<|im_start|>assistant
+Our corn tortillas are made from corn, but they may be prepared on shared equipment or cooking surfaces with flour tortillas, so we can’t guarantee they’re free from gluten cross-contact. Please let your server know about your allergy so the team can review the preparation options at your location.<|im_end|>
+
+<|im_start|>user
+I am planning a lunch for 35 people next Friday. Can you provide catering options and let me know how much advance notice you need?<|im_end|>
+<|im_start|>assistant
+We’d be happy to help with lunch for 35 guests. Catering packages, lead times, and availability vary by location, so please provide the event date, pickup or delivery preference, and your nearest restaurant at [Catering Contact] so our team can prepare a quote.<|im_end|>
+
+<|im_start|>user
+Are you guys open on Memorial Day? Want to plan a catered lunch for my team.<|im_end|>
+<|im_start|>assistant
+Hi! We’d be happy to help with your team’s catered lunch. Our Memorial Day hours and catering availability may vary by location, so please share your Taco Alley location or contact [Manager Contact] to confirm hours and discuss catering options.<|im_end|>
+
+<|im_start|>user
+I was charged twice for the same online order, although only one order was placed and delivered. Please investigate and reverse the duplicate charge.<|im_end|>
+<|im_start|>assistant
+I’m sorry for the duplicate charge and the inconvenience it caused. Please send us the order number and a screenshot or details of both transactions so we can investigate with our payment processor and help ensure the extra charge is reversed.<|im_end|>
+
+<|im_start|>user
+My delivery order says it was dropped off, but nothing is outside my apartment door. Can you help me locate it?<|im_end|>
+<|im_start|>assistant
+I’m sorry your order is marked delivered but hasn’t arrived. Please check nearby entrances and with your neighbors, and send us the order number so we can contact the delivery partner and work toward a quick resolution.<|im_end|>
+
+<|im_start|>user
+I clearly asked for my bowl to be prepared without dairy because of an allergy, but it had sour cream mixed in. I noticed before eating it, but this is a serious safety issue.<|im_end|>
+<|im_start|>assistant
+I’m very sorry that your dairy-free request was not followed; we understand how serious an allergen concern is, even though you caught it before eating. We’ll urgently report this to the restaurant leadership for review and would like to discuss the order with you through [Support Link], including any appropriate refund or replacement.<|im_end|>
+
+<|im_start|>user
+I use a wheelchair and would like to know whether the Oak Street dining room has an accessible entrance and restroom before I visit.<|im_end|>
+<|im_start|>assistant
+We want your visit to be comfortable and accessible. I’m checking the current entrance and restroom details with the Oak Street team, and you’re welcome to contact the restaurant directly before visiting so staff can answer any location-specific questions or assist when you arrive.<|im_end|>
+
+<|im_start|>user
+Is the seasonal Watermelon Agua Fresca still available, or has it been discontinued for the fall season?<|im_end|>
+<|im_start|>assistant
+The seasonal Watermelon Agua Fresca is available while supplies last, but it may vary by location as we transition into the fall season. Please check with your nearest Taco Alley for today’s availability—we hope you get to enjoy it while it’s still here!<|im_end|>
+
+<|im_start|>user
+Love your food! As a vegan, I'd really love to see plant-based options like Tofu Fajitas added to your permanent menu.<|im_end|>
+<|im_start|>assistant
+Thanks so much for the kind words and thoughtful suggestion! Tofu fajitas sound delicious, and we’ll share your idea with our culinary team and store management for consideration as we plan future menu options.<|im_end|>
+
+<|im_start|>user
+The restroom at your University District restaurant was dirty, out of soap, and hand towels were nowhere to be found. Please inform the shift manager.<|im_end|>
+<|im_start|>assistant
+I’m sorry the restroom at our University District location was in that condition—being out of soap and hand towels is not acceptable. I’ll inform the shift manager so the restroom can be cleaned and restocked promptly, and we’ll reinforce our restroom checks with the team.<|im_end|>
+
+<|im_start|>user
+My points from yesterday's purchase still haven't appeared in the app. How long does it normally take, and can they be added manually?<|im_end|>
+<|im_start|>assistant
+Points typically post after the transaction is finalized, but we’re happy to check why yours have not appeared. Please send your receipt and the email or phone number linked to your rewards account through [Rewards Support Link], and we’ll investigate the missing credit.<|im_end|>
+
+<|im_start|>user
+I ordered a chicken burrito without onions through the app, but it arrived covered in onions. I couldn't eat it and had to throw the meal away.<|im_end|>
+<|im_start|>assistant
+I’m sorry your burrito was prepared incorrectly, especially after you clearly requested no onions, and I understand how frustrating it is to lose an entire meal. Please send us your order number and location so we can review this with the restaurant and make it right.<|im_end|>
+
+<|im_start|>user
+Several tables at the Lakeside restaurant were still covered with trays and napkins during the dinner rush, and the restroom needed attention too. The staff seemed overwhelmed.<|im_end|>
+<|im_start|>assistant
+I’m sorry the Lakeside restaurant was not clean and ready for guests during your visit. We’ll share these details with the location manager so the dining room and restroom checks can be addressed, and we appreciate you recognizing that the team appeared overwhelmed while still bringing this to our attention.<|im_end|>
+
+<|im_start|>user
+My delivery arrived nearly an hour late, and the food was lukewarm. The tracker said the driver had already arrived when the order was still missing.<|im_end|>
+<|im_start|>assistant
+I’m sorry your delivery was so late and arrived lukewarm, especially with the tracker showing inaccurate information. Please send your order number to [Manager Contact] so we can review the delivery details and discuss an appropriate resolution.<|im_end|>
+
+<|im_start|>user
+Can I redeem my birthday reward taco through the drive-thru, or do I have to scan it inside at the register?<|im_end|>
+<|im_start|>assistant
+Yes, you can redeem your birthday reward taco through the drive-thru—just let the team member know you have the reward and have it ready in the app. You don’t need to scan it inside at the register.<|im_end|>
+
+<|im_start|>user
+The manager at Main Street was totally unhelpful when I politely pointed out an issue with my meal. Zero customer service skills.<|im_end|>
+<|im_start|>assistant
+I’m sorry you were met with that attitude when you calmly raised a concern—your experience should have been handled with care and respect. We’re escalating this to our leadership team to review what happened with the Main Street manager, and we’d appreciate your order details and visit time so we can follow up properly.<|im_end|>
+
+<|im_start|>user
+I ordered a chicken burrito with no dairy because of an allergy, but it arrived covered in cheese and sour cream. I couldn't eat it and need this addressed immediately.<|im_end|>
+<|im_start|>assistant
+I’m very sorry that your dairy-free order arrived with cheese and sour cream, especially since you noted an allergy. Please don’t consume the item, and share your order number so we can alert the restaurant manager and arrange an appropriate resolution right away.<|im_end|>
+
+<|im_start|>user
+The drive-thru cashier at the Eastside location was incredibly rude. When I asked for extra verde salsa, he rolled his eyes and handed me my food in silence.<|im_end|>
+<|im_start|>assistant
+I’m sorry you were treated that way at our Eastside location, especially when you were simply asking for extra verde salsa. That dismissive behavior isn’t the welcoming service we expect, and I’m escalating your feedback to the store manager for review. Thank you for bringing this to our attention so we can address it with the team.<|im_end|>
+
+<|im_start|>user
+My delivery was marked as completed, but it never arrived at my apartment. I checked the lobby and the neighboring units, and the driver did not leave a photo.<|im_end|>
+<|im_start|>assistant
+I’m sorry your order was marked delivered when you still haven’t received it. Please confirm the delivery address and order number so we can review the driver’s delivery details promptly and work with you on a replacement or refund.<|im_end|>
+
+<|im_start|>user
+The manager at Downtown was totally unhelpful when I politely pointed out an issue with my meal. Zero customer service skills.<|im_end|>
+<|im_start|>assistant
+I’m sorry you were met with such an unhelpful response when you calmly raised a concern about your meal—that’s not the level of care we expect at Taco Alley. I’m escalating this to our leadership team for review and would appreciate the details of your visit so we can address it directly with the Downtown manager.<|im_end|>
+
+<|im_start|>user
+Could you add a vegetarian breakfast option with beans, scrambled eggs, and roasted vegetables? There are not many meat-free choices in the morning.<|im_end|>
+<|im_start|>assistant
+Thanks for the thoughtful breakfast suggestion! A vegetarian plate with beans, eggs, and roasted vegetables sounds like a great addition, and we’ll share your idea with our culinary and menu planning teams.<|im_end|>
+
+<|im_start|>user
+I redeemed points for a free taco, but the reward disappeared from my account before I could use it. Can you restore it?<|im_end|>
+<|im_start|>assistant
+I’m sorry the redeemed taco reward disappeared before you could use it. Please share the email or phone number connected to your Taco Alley account and the approximate redemption time so our loyalty team can review the activity and determine whether the reward can be restored.<|im_end|>
+
+<|im_start|>user
+My Fish Tacos was totally inedible today at the Midtown store. The meat was lukewarm and the sauce tasted completely unseasoned. Very disappointing experience.<|im_end|>
+<|im_start|>assistant
+I’m so sorry your fish tacos were lukewarm and poorly seasoned—that’s absolutely not the quality we expect at our Midtown store. We’ll escalate this to the store manager for immediate review, and we’d like to make it right with a refund or replacement; please contact us at [Refund Link] with your order details.<|im_end|>
+
+<|im_start|>user
+I have a severe peanut allergy. Can you confirm whether the crispy tortilla strips are prepared separately from peanut-containing items?<|im_end|>
+<|im_start|>assistant
+Because you have a severe peanut allergy, please do not rely on the tortilla strips being prepared separately unless the location confirms its current procedures. We can’t guarantee an allergen-free environment due to shared equipment and cross-contact risks, so please contact the specific restaurant manager before ordering for the most accurate information.<|im_end|>
+
+<|im_start|>user
+I was charged twice for the same catering order on my debit card. Both transactions show as completed, not pending, and I need the extra charge reversed.<|im_end|>
+<|im_start|>assistant
+I’m sorry for the duplicate charge on your catering order. Please send the order number and the dates and amounts of the two transactions, without sharing your full card number, so our billing team can investigate and process any necessary correction.<|im_end|>
+
+<|im_start|>user
+The app advertised a free drink with my lunch combo, but the offer disappeared when I reached checkout. Is the promotion limited to certain locations or payment methods?<|im_end|>
+<|im_start|>assistant
+I’m sorry the free-drink offer disappeared at checkout, and I understand why that was confusing. Promotions can have location, item, date, or payment restrictions; please send a screenshot and your selected restaurant through [App Support] so we can confirm the offer terms and help resolve the issue.<|im_end|>
+
+<|im_start|>user
+The drive-thru cashier at the Northlake location was incredibly rude. When I asked for extra verde salsa, he muttered something rude and handed me my food in silence.<|im_end|>
+<|im_start|>assistant
+I’m sorry you were treated so rudely at our Northlake drive-thru, especially when you were simply asking for extra verde salsa. That interaction isn’t the welcoming service we expect, and I’m escalating your feedback to the location manager for review; we’d appreciate your order details or visit time so we can address it with the team.<|im_end|>
+
+<|im_start|>user
+I have a severe peanut allergy. Can you tell me whether the kitchen uses peanut oil and how you prevent cross-contact?<|im_end|>
+<|im_start|>assistant
+We take allergy concerns seriously, but our kitchens handle multiple allergens and cannot guarantee that cross-contact will not occur. Please review the current ingredient information with the specific location before ordering, and let the team know about your allergy so they can explain the available options.<|im_end|>
+
+<|im_start|>user
+It would be awesome if you offered a keto-friendly bowl option or lettuce wraps instead of just tortillas.<|im_end|>
+<|im_start|>assistant
+Thanks for the thoughtful suggestion! A keto-friendly bowl or lettuce-wrap option would be a great addition, and I’ll share your idea with our management and culinary teams for consideration. We appreciate you helping us think of ways to make the menu work for more guests.<|im_end|>
+
+<|im_start|>user
+I’m planning a lunch for about 35 people next Friday. Can someone provide catering package options and let me know how much notice you need?<|im_end|>
+<|im_start|>assistant
+We’d be happy to help with your lunch for 35 guests. Please submit the event date, pickup or delivery location, and any dietary needs through our catering form or contact [Catering Contact], and the team can review available packages, pricing, and lead-time requirements.<|im_end|>
+
+<|im_start|>user
+Can you confirm whether the chipotle chicken bowl contains peanuts or is prepared near peanuts? I have a severe allergy and need an answer before ordering.<|im_end|>
+<|im_start|>assistant
+Your safety is important to us, and we don’t want to guess about a severe allergy. I’ll have the restaurant confirm the bowl’s ingredients and possible cross-contact with peanuts; until we verify that information, please do not place the order, and contact [Manager Contact] for assistance.<|im_end|>
+
+<|im_start|>user
+Visited the Downtown store around 2:00 PM. Almost all tables were dirty with salsa stains, and the trash cans were overflowing into the walkway.<|im_end|>
+<|im_start|>assistant
+I’m sorry the Downtown store was in that condition during your visit—dirty tables and overflowing trash are frustrating and not the standard we expect. I’m sharing this with the store manager so the team can address the cleaning and waste-check routines promptly.<|im_end|>
+
+<|im_start|>user
+Are you guys open on Labor Day? Want to plan a catered lunch for my team.<|im_end|>
+<|im_start|>assistant
+We’d be happy to help with your team’s catered lunch! Labor Day hours can vary by location, so please share the Taco Alley restaurant you’re considering and we’ll confirm holiday hours and catering availability.<|im_end|>
+
+<|im_start|>user
+I appreciate the paper straws, but every takeout order still comes with several plastic sauce cups. Could you offer a no-sauce option or compostable containers?<|im_end|>
+<|im_start|>assistant
+Thanks for the practical sustainability suggestion. Customers can request fewer sauces when available, and we’ll share your feedback about compostable cups and packaging with our operations and sourcing teams as they review future options.<|im_end|>
+
+<|im_start|>user
+Does the roasted corn salsa contain dairy or eggs? I have a food allergy and want to check before ordering.<|im_end|>
+<|im_start|>assistant
+We understand how important it is to confirm ingredients before ordering. Our current allergen information should identify whether the roasted corn salsa contains dairy or eggs, but because recipes and preparation areas can change, please ask the store team to verify the details when you order.<|im_end|>
+
+<|im_start|>user
+Would you consider adding a lower counter section or a clearly marked accessible pickup area at the downtown store? It would make visits easier for guests who use wheelchairs.<|im_end|>
+<|im_start|>assistant
+Thank you for sharing this thoughtful accessibility suggestion. We’ll pass your request for a lower counter section or designated pickup area to our operations and downtown store teams for review, because making our restaurants easier to use is important to us.<|im_end|>
+
+<|im_start|>user
+My delivery order was missing the two chicken tacos and the side of rice I paid for. The bag was sealed, so I could not check it before the driver left.<|im_end|>
+<|im_start|>assistant
+I’m sorry your delivery was missing the chicken tacos and rice you paid for. I’ve documented the sealed-bag issue and can help arrange a refund or replacement for the missing items; please share your order number so we can resolve this promptly.<|im_end|>
+
+<|im_start|>user
+Does the queso contain peanuts or tree nuts? I have a severe allergy and need to know before deciding whether it is safe to order.<|im_end|>
+<|im_start|>assistant
+Your safety is important to us, and we’re happy to help with allergen information. Please review our current allergen guide or contact [Manager Contact] for the exact ingredient and cross-contact details for the queso before ordering; if we cannot confirm it is safe, we recommend choosing another item.<|im_end|>
+
+<|im_start|>user
+My card was charged twice for the same app order from the Downtown store. I only received one meal and need the duplicate charge reversed.<|im_end|>
+<|im_start|>assistant
+I’m sorry for the duplicate charge on your Downtown app order. Please send us the order number and the two transaction details at [Manager Contact] so we can investigate promptly and help arrange a reversal of the extra payment.<|im_end|>
+
+<|im_start|>user
+Can I use an e-gift card for an order placed through the website, or is it only valid when ordering at the restaurant?<|im_end|>
+<|im_start|>assistant
+Yes, our e-gift cards can be used for eligible online orders as well as purchases at participating restaurants. Enter the card number and PIN at checkout, and if the balance is not accepted, please contact us with the card details through [Support Link] so we can help.<|im_end|>
+
+<|im_start|>user
+I specifically asked for NO onions on my Barbacoa Burrito due to a strict food allergy, but it was completely covered in it! We couldn't eat our dinner.<|im_end|>
+<|im_start|>assistant
+I’m so sorry—we treated your no-onion allergy request far too casually, and I understand why you couldn’t eat your dinner. Please contact us at [Manager Contact] with your order details so we can escalate this to the manager immediately and arrange a full refund or replacement, and we’ll review the handling of allergy requests with our team.<|im_end|>
+
+<|im_start|>user
+It would be super helpful if you added self-service ordering kiosks at the Eastside store to speed up long lunch lines.<|im_end|>
+<|im_start|>assistant
+Thanks for the thoughtful suggestion—we understand how helpful self-service kiosks could be during the Eastside store’s busy lunch rush. We’ll share your feedback with our store management and operations teams for consideration as we look for ways to make ordering faster and more convenient.<|im_end|>
+
+<|im_start|>user
+Several tables at the Harbor Point restaurant had food crumbs and sticky surfaces during my visit, and no one cleaned them while I was there.<|im_end|>
+<|im_start|>assistant
+I’m sorry the dining area at Harbor Point was not maintained properly during your visit. Clean tables are essential to a comfortable experience, and we’ll share your feedback with the location manager so the team can reinforce its cleaning checks.<|im_end|>
+
+<|im_start|>user
+My delivery was missing the two kids’ meals and included a drink I didn’t order. The children were waiting for dinner, so I need the missing items refunded rather than store credit.<|im_end|>
+<|im_start|>assistant
+I’m sorry your delivery was missing both kids’ meals and included an incorrect drink, especially when your children were waiting for dinner. Please share the delivery order number and a photo of the items received through [Support Channel] so we can document the error and arrange a refund for the missing meals in line with your preference.<|im_end|>
+
+<|im_start|>user
+I earned enough points for a free taco, but the reward disappeared from my account before I could redeem it. Can it be restored?<|im_end|>
+<|im_start|>assistant
+We can check why the reward is no longer showing in your account. Please provide the email or phone number linked to your Taco Alley profile and, if possible, a screenshot of the points history so our rewards team can review it.<|im_end|>
+
+<|im_start|>user
+My delivery was scheduled for 6:30, but it is now nearly 8:00 and the tracker has not updated. I have guests waiting and need to know whether the order is actually coming.<|im_end|>
+<|im_start|>assistant
+I’m sorry your order is significantly late and that the tracker hasn’t provided any useful update, especially with guests waiting. We’re checking with the delivery team now and will confirm the status as quickly as possible; if it cannot be delivered promptly, we’ll help arrange a refund for the delayed order.<|im_end|>
+
+<|im_start|>user
+The manager at Airport Blvd was totally unhelpful when I politely pointed out an issue with my meal. Zero customer service skills.<|im_end|>
+<|im_start|>assistant
+I’m sorry you were met with that response at our Airport Blvd location—raising a concern about your meal should have been handled with care and respect. We’re escalating this to our area leadership team for review and follow-up with the store, and we’d appreciate your order details and visit time so we can investigate properly.<|im_end|>
+
+<|im_start|>user
+Is the seasonal Mango Habanero Salsa still available, or has it been discontinued for the fall season?<|im_end|>
+<|im_start|>assistant
+Thanks for checking! The Mango Habanero Salsa is a seasonal item, and availability may vary by location as we transition into fall. Please contact your nearest Taco Alley to confirm whether they still have it in stock.<|im_end|>
+
+<|im_start|>user
+I earned enough points for a free combo, but the reward is not showing in my account. How long does it usually take to appear?<|im_end|>
+<|im_start|>assistant
+Rewards usually appear shortly after the qualifying purchase, but occasionally the app needs to be refreshed or reopened. Please confirm you’re signed into the correct account, and contact [Support Contact] with your receipt if the reward still does not appear after 24 hours.<|im_end|>
+
+<|im_start|>user
+A team member at the Riverside location ignored me while chatting with a friend, then spoke impatiently when I asked about my delayed order.<|im_end|>
+<|im_start|>assistant
+We’re sorry you felt ignored and were treated impatiently while waiting for your order. Please share the approximate time of your visit and any additional details, and we’ll forward your feedback to the Riverside manager for review and coaching.<|im_end|>
+
+<|im_start|>user
+I’m planning a graduation party for about 35 people. Do you offer catering trays, and how far in advance should I place the order?<|im_end|>
+<|im_start|>assistant
+Congratulations on the upcoming graduation! Catering options and lead times can vary by location, so please contact [Catering Contact] with your date, guest count, and preferred items so the team can confirm availability and provide a quote.<|im_end|>
+
+<|im_start|>user
+Are the crispy potato tacos made with any dairy, and can they be prepared without cheese or sour cream?<|im_end|>
+<|im_start|>assistant
+The toppings can be left off, but ingredient and cross-contact information may vary by location. Please review the allergen details in our app and let your restaurant team know about your dairy concern when ordering so they can confirm what can be safely prepared.<|im_end|>
+
+<|im_start|>user
+My Barbacoa Burrito was totally inedible today at the Eastside store. The meat was stone cold and the sauce tasted overly salty. Very disappointing experience.<|im_end|>
+<|im_start|>assistant
+I’m so sorry your Barbacoa Burrito was cold and overly salty—that’s not the quality or experience we want at Taco Alley. We’ll escalate this to the Eastside store manager for immediate review, and we’d like to make it right with a refund or replacement; please share your order details through [Refund Link].<|im_end|>
+
+<|im_start|>user
+Can I place a catering order for about 35 people next Friday at noon? I need vegetarian options and individual labels for each meal.<|im_end|>
+<|im_start|>assistant
+We’d be happy to help with catering for your group of about 35. Please provide the date, delivery or pickup location, and any specific vegetarian selections so our catering team can confirm availability, labeling options, and a quote for noon.<|im_end|>
+
+<|im_start|>user
+I forgot to scan my rewards account during yesterday’s purchase. Could you add the points if I send a copy of the receipt?<|im_end|>
+<|im_start|>assistant
+We can help look into adding the missing rewards points. Please send a photo of the receipt, the purchase date and location, and the email or phone number connected to your rewards account through [Manager Contact] so the team can verify the transaction.<|im_end|>
+
+<|im_start|>user
+My mobile order was supposed to be ready at 12:15 at the Riverside location, but I waited nearly 30 minutes and no one could tell me what was happening. I had to leave without lunch and still got charged.<|im_end|>
+<|im_start|>assistant
+I’m sorry your Riverside mobile order was delayed so long and that you were charged even though you had to leave without it. We’ll share this with the store manager and can review a refund for the unfulfilled order; please contact us through [Refund Link] with your order number.<|im_end|>

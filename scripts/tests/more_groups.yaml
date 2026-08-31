@@ -1,0 +1,39 @@
+# Variant of baseline.yaml. Changed: num_generations, gradient_accumulation_steps
+# One trial = one hypothesis. Copy this file, change ONE thing, rerun.
+name: more_groups
+model: Qwen/Qwen2.5-Coder-1.5B-Instruct
+
+model_kwargs:
+  dtype: bfloat16
+  attn_implementation: sdpa      # no Triton/flash-attn build needed on Windows
+
+lora:
+  r: 32
+  lora_alpha: 64
+  lora_dropout: 0.05
+  target_modules: all-linear
+  bias: none
+  task_type: CAUSAL_LM
+
+# Anything valid for your installed GRPOConfig. Invalid keys are reported
+# with a suggestion before the model loads.
+grpo:
+  num_generations: 16
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 16
+  max_completion_length: 256
+  mask_truncated_completions: false
+  temperature: 1.0
+  top_p: 0.95
+  top_k: 50
+  beta: 0.0
+  scale_rewards: true
+  learning_rate: 3.0e-5
+  lr_scheduler_type: cosine
+  warmup_steps: 0.05
+  num_train_epochs: 3
+  bf16: true
+  gradient_checkpointing: true
+  logging_steps: 2
+  log_completions: false
+  reward_weights: [0.15,0.25,1.0,0.25]
